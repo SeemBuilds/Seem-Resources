@@ -1,4 +1,4 @@
 # Seem-Resources
 Free resources created by the roblox dev, Seem.
 
-No licence.
+Always check licence in the folder!
