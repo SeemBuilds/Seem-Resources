@@ -44,7 +44,9 @@
     SOFTWARE.
 ]]
 
-
+--[[
+PLEASE NOTE: This code may not be fully developed yet (e.g., bug fixes, etc.).
+]]
 local TableLib = {}
 
 local function CheckType(givenTable)
